@@ -56,3 +56,10 @@ h1{
 .logininformation a{
     color: black;
 }
+.fields {
+align-items: left;
+}
+.forgotpassword{
+    padding-left : 10px;
+    
+}
