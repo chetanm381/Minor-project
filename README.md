@@ -1,2 +1,0 @@
-# Minor-project
-Minor project
